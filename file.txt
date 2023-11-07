@@ -1,24 +1,24 @@
-pixel.facebook.com
-an.facebook.com
-static.ads-twitter.com
-ads-api.twitter.com
-nmetrics.samsung.com
-samsung-com.112.2o7.net
-analytics-api.samsunghealthcn.com
-metrics.apple.com
-ads30.adcolony.com
-adc3-launch.adcolony.com
-events3alt.adcolony.com
-wd.adcolony.com
-stats.g.doubleclick.net
-ad.doubleclick.net
-static.doubleclick.net
-m.doubleclick.net
-mediavisor.doubleclick.net
-pagead2.googlesyndication.com
-adservice.google.com
-pagead2.googleadservices.com
-afs.googlesyndication.com
-static.media.net
-media.net
-adservetx.media.net
+0.0.0.0 pixel.facebook.com
+0.0.0.0 an.facebook.com
+0.0.0.0 static.ads-twitter.com
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 nmetrics.samsung.com
+0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 metrics.apple.com
+0.0.0.0 ads30.adcolony.com
+0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 events3alt.adcolony.com
+0.0.0.0 wd.adcolony.com
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 m.doubleclick.net
+0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 adservice.google.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 afs.googlesyndication.com
+0.0.0.0 static.media.net
+0.0.0.0 media.net
+0.0.0.0 adservetx.media.net
