@@ -4,8 +4,8 @@ pagead2.googleadservices.com
 static.media.net
 media.net
 adservetx.media.net
-doubleclick.net/
-ad.doubleclick.net/
+doubleclick.net
+ad.doubleclick.net
 static.doubleclick.net
 m.doubleclick.net
 mediavisor.doubleclick.net
@@ -22,9 +22,9 @@ google-analytics.com
 ssl.google-analytics.com
 hotjar.com
 static.hotjar.com
-mouseflow.com/
+mouseflow.com
 a.mouseflow.com
-freshmarketer.com/
+freshmarketer.com
 luckyorange.com
 cdn.luckyorange.com
 w1.luckyorange.com
